@@ -1,7 +1,7 @@
 # Godot-Tutorials
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/divin/godot-tutorials/master/LICENSE)
-[![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal)](paypal.me/divinism)
+[![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal)](https://paypal.me/divinism)
 
 I'll post here the source files for my Godot tutorials which I'll upload from time to time to my website [Divinism](https://divin.github.io).  
 Feel free to check it out and use these files as you wish :)
