@@ -6,7 +6,7 @@
 I'll post here the source files for my Godot tutorials which I'll upload from time to time to my website [Divinism](https://divin.github.io).  
 Feel free to check it out and use these files as you wish :)
 
-Check out the folders if you only looking for specific file or use the download links down below to load the whole project.
+Check out the folders if you only looking for specific file or use the download links down below to load the whole project as ZIP.
 
 ## Download Links for the ZIP files:
 
