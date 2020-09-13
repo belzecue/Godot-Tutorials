@@ -14,4 +14,4 @@ Check out the folders if you only looking for specific file or use the download 
 
 ## Feel free to buy me a Green Tea :smile:
 
-[![Support via PayPal](https://cdn.jsdelivr.net/gh/twolfson/paypal-github-button@1.0.0/dist/button.svg)](paypal.me/divinism)
+[![Support via PayPal][(https://cdn.jsdelivr.net/gh/twolfson/paypal-github-button@1.0.0/dist/button.svg)](paypal.me/divinism)
