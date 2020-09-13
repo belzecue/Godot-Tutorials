@@ -5,4 +5,4 @@ Feel free to check it out and use these files as you wish :)
 
 Download Links for the ZIP files:
 
-[Tutorial_1](https://github.com/divin/Godot-Tutorials/blob/master/Tutorial_1/Tutorial_1.zip)
+[Tutorial_1](https://github.com/divin/Godot-Tutorials/raw/master/Tutorial_1/Tutorial_1.zip)
